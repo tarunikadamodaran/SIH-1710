@@ -1,3 +1,4 @@
+<img width="1402" height="1122" alt="ChatGPT Image May 29, 2026, 02_05_36 PM" src="https://github.com/user-attachments/assets/6a5de66f-56bc-4300-9322-8fdb4c063f90" />
 # SIH 1710 – Enhancing Navigation for Railway Station Facilities and Locations
 ## Date: 29.05.2026
 ## Name: Tarunika D
@@ -12,8 +13,7 @@ The proposed solution is a smart navigation system that provides real-time indoo
 
 # System Architecture Diagram
 
-![System Architecture Diagram](images/architecture-diagram.png)
-
+https://chatgpt.com/s/m_6a19500edca08191b2646dd2fac0c348
 ## Architecture Overview
 
 The system follows a layered architecture consisting of:
@@ -91,8 +91,7 @@ The system integrates with:
 ---
 
 # Use Case Diagram
-
-![Use Case Diagram](images/usecase-diagram.png)
+<img width="1402" height="1122" alt="ChatGPT Image May 29, 2026, 02_05_36 PM" src="https://github.com/user-attachments/assets/400ddd4d-0b29-4eeb-a7f7-0353dbdb2c47" />
 
 ## Actors
 
